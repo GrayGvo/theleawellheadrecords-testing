@@ -4,25 +4,25 @@ This repository serves as the central testing and development hub for "The Lea W
 # Project Evolution
 
 Version 1: Digital Cartographic Archive
-Repository: leaistherecord0
+Repository: [leaistherecord0](https://github.com/GrayGvo/leaistherecord0)
 Live Demo: https://graygvo.github.io/leaistherecord0/
 Initial prototype implementing an interactive digital map archive exploring the River Lea's geographical and historical contexts.
 
 Version 2: Interactive Sonic Archive
-Repository: leaistherecord
+Repository: [leaistherecord](https://github.com/GrayGvo/leaistherecord)
 Live Demo: https://graygvo.github.io/leaistherecord/
 Advanced prototype featuring semiotics of river flow and musical characteristic interactivity, creating a dynamic archival experience.
 
 Version 3: Sound System Controller Prototype
-Repository: WIP-SHOW-NE
+Repository: [WIP-SHOW-NE](https://github.com/GrayGvo/WIP-SHOW-NE)
 Live Demo: https://graygvo.github.io/WIP-SHOW-NE/
 Soundscape interaction controller inspired by sound system culture, developed for internal rehearsal sessions prior to the WIP SHOW exhibition.
 
 Version 4: Exhibition Implementation
-Repository: CSM-WIP-SHOW
+Repository: [CSM-WIP-SHOW](https://github.com/GrayGvo/CSM-WIP-SHOW)
 Final implementation of the soundscape interaction controller, specifically configured for the WIP SHOW exhibition environment.
 
-#Technical Implementation
+# Technical Implementation
 
 Each repository contains specific implementation details, documentation, and technical specifications for its corresponding project phase. The evolution of these prototypes demonstrates the progression from digital documentation to immersive sonic interaction within the context of the River Lea's wellhead environment.
 
